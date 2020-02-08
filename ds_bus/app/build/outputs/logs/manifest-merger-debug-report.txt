@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\d67978864c1716a1a23c56828eabbe8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\ee8ab4da63c7ad81ed78112ad9b2df0f\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\a3afb2831bbc5661ecb7b3aa63b1b406\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\876f90f479af37c3824af5c6b601075f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\e99a14bf34406ab9de5e06043b01635b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\cd728b083aff1c3ab6f00e543ee8df26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\3fede8ae8c0170ce2998aa7a58aa7b55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\19c66dda2dcfa7c2881e78238e0f5647\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\bd2e7f6db48d5f39186e0cd3afd4cc44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\27bd8d406ff05791348cacbd282ef9f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\b4b9486bcea52fa2694f6f5183175a62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\0268698eb4b34096ceb2db1e5433d5cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\29768a84a3dae2d5dc03893632953ca3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\00fb12777f8eaa7f00fd9e7fbd3f3192\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\3f982cc364ff2f9bab5be78ddb24388e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\1722449d22f2ed90e71dccdf2ed94bf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\9b647e968901f2517a1c7bfac7d87fc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\1f9f23e486e179e836bc74b64c7f6266\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\5805256a5b6097e134ef9a830bfdfa4d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\84c4a381fb4d28962067d72ba8f68b0c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\f28f82503d476859448dec45412a00e7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\af8d95c1b193abfb1ef54917afcadfbb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\bce178bd26c93c4328b80cd13427c6c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\6fadfc2a4c4bb28f2fa6cc77fb3579ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\431c475a3d56cab07e5876e5a2d97cbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\39af7b27b7c6e3777e16117538bf6305\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\0ba41fbd5c0ef17ce28026028c29b44f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\932455905480b33fecb8c10bcb15435a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\76aa9793b25403d0ee5a4be920f6e980\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\4c02bb4c28f05a10f7a5ee2351e37097\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\34a461df84b45f1a3db62ad1ae2ae398\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:12:5-41:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\ee8ab4da63c7ad81ed78112ad9b2df0f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\ee8ab4da63c7ad81ed78112ad9b2df0f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\a3afb2831bbc5661ecb7b3aa63b1b406\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\a3afb2831bbc5661ecb7b3aa63b1b406\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\876f90f479af37c3824af5c6b601075f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\876f90f479af37c3824af5c6b601075f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\e99a14bf34406ab9de5e06043b01635b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\e99a14bf34406ab9de5e06043b01635b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\5805256a5b6097e134ef9a830bfdfa4d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\5805256a5b6097e134ef9a830bfdfa4d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\84c4a381fb4d28962067d72ba8f68b0c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\84c4a381fb4d28962067d72ba8f68b0c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\f28f82503d476859448dec45412a00e7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\f28f82503d476859448dec45412a00e7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\84c4a381fb4d28962067d72ba8f68b0c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:29:13-58
+activity#com.ds_bus.MainActivity
+ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:33:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\d67978864c1716a1a23c56828eabbe8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\d67978864c1716a1a23c56828eabbe8a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\ee8ab4da63c7ad81ed78112ad9b2df0f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\ee8ab4da63c7ad81ed78112ad9b2df0f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\a3afb2831bbc5661ecb7b3aa63b1b406\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\a3afb2831bbc5661ecb7b3aa63b1b406\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\876f90f479af37c3824af5c6b601075f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\876f90f479af37c3824af5c6b601075f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\e99a14bf34406ab9de5e06043b01635b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\e99a14bf34406ab9de5e06043b01635b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\cd728b083aff1c3ab6f00e543ee8df26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\cd728b083aff1c3ab6f00e543ee8df26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\3fede8ae8c0170ce2998aa7a58aa7b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\3fede8ae8c0170ce2998aa7a58aa7b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\19c66dda2dcfa7c2881e78238e0f5647\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\19c66dda2dcfa7c2881e78238e0f5647\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\bd2e7f6db48d5f39186e0cd3afd4cc44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\bd2e7f6db48d5f39186e0cd3afd4cc44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\27bd8d406ff05791348cacbd282ef9f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\27bd8d406ff05791348cacbd282ef9f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\b4b9486bcea52fa2694f6f5183175a62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\b4b9486bcea52fa2694f6f5183175a62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\0268698eb4b34096ceb2db1e5433d5cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\0268698eb4b34096ceb2db1e5433d5cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\29768a84a3dae2d5dc03893632953ca3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\29768a84a3dae2d5dc03893632953ca3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\00fb12777f8eaa7f00fd9e7fbd3f3192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\00fb12777f8eaa7f00fd9e7fbd3f3192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\3f982cc364ff2f9bab5be78ddb24388e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\3f982cc364ff2f9bab5be78ddb24388e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\1722449d22f2ed90e71dccdf2ed94bf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\1722449d22f2ed90e71dccdf2ed94bf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\9b647e968901f2517a1c7bfac7d87fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\9b647e968901f2517a1c7bfac7d87fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\1f9f23e486e179e836bc74b64c7f6266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\1f9f23e486e179e836bc74b64c7f6266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\5805256a5b6097e134ef9a830bfdfa4d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\5805256a5b6097e134ef9a830bfdfa4d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\84c4a381fb4d28962067d72ba8f68b0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\84c4a381fb4d28962067d72ba8f68b0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\f28f82503d476859448dec45412a00e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\f28f82503d476859448dec45412a00e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\af8d95c1b193abfb1ef54917afcadfbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\af8d95c1b193abfb1ef54917afcadfbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\bce178bd26c93c4328b80cd13427c6c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\bce178bd26c93c4328b80cd13427c6c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\6fadfc2a4c4bb28f2fa6cc77fb3579ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\6fadfc2a4c4bb28f2fa6cc77fb3579ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\431c475a3d56cab07e5876e5a2d97cbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\431c475a3d56cab07e5876e5a2d97cbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\39af7b27b7c6e3777e16117538bf6305\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\39af7b27b7c6e3777e16117538bf6305\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\0ba41fbd5c0ef17ce28026028c29b44f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\0ba41fbd5c0ef17ce28026028c29b44f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\932455905480b33fecb8c10bcb15435a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\932455905480b33fecb8c10bcb15435a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\76aa9793b25403d0ee5a4be920f6e980\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\76aa9793b25403d0ee5a4be920f6e980\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\4c02bb4c28f05a10f7a5ee2351e37097\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\4c02bb4c28f05a10f7a5ee2351e37097\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\34a461df84b45f1a3db62ad1ae2ae398\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\34a461df84b45f1a3db62ad1ae2ae398\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\e99a14bf34406ab9de5e06043b01635b\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\George Kolitsopoulos\Desktop\ds_bus\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\c635f106ca07f1ac48638a8c6f75f5e4\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\ee8ab4da63c7ad81ed78112ad9b2df0f\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\ee8ab4da63c7ad81ed78112ad9b2df0f\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\ee8ab4da63c7ad81ed78112ad9b2df0f\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\ee8ab4da63c7ad81ed78112ad9b2df0f\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\876f90f479af37c3824af5c6b601075f\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\876f90f479af37c3824af5c6b601075f\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\876f90f479af37c3824af5c6b601075f\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\e99a14bf34406ab9de5e06043b01635b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\5805256a5b6097e134ef9a830bfdfa4d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\5805256a5b6097e134ef9a830bfdfa4d\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\e99a14bf34406ab9de5e06043b01635b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\George Kolitsopoulos\.gradle\caches\transforms-2\files-2.1\e99a14bf34406ab9de5e06043b01635b\AndroidManifest.xml:27:13-51
